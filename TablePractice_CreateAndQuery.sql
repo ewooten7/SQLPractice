@@ -29,5 +29,6 @@ WHERE EmployeeMiddleName = '';
 --INSERT INTO tblEmployee2([EmployeeNumber],[EmployeeFirstName],
 --VALUES (132, 'Dylan', 'A', 'Word', 'MO630170X', '19940205',	'Customer Relations')
 
-SELECT * FROM tblEmployee2
-WHERE [EmployeeLastName] <> 'Word'
+--SELECT * FROM tblEmployee2
+--WHERE [EmployeeLastName] <> 'Word'
+
